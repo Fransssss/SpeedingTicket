@@ -7,6 +7,8 @@
  * Driving 6-20 mph over the speed limit receives a $75 ticket.
  * Driving 21-40 mph over the speed limit receives a $150 ticket.
  * Driving faster than 40 get $300 ticket.
+ 
+ * Inspired from Zybook Lab
  */
 
 using std::cout;
